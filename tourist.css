@@ -1,0 +1,67 @@
+table,td,th{
+    border: 5px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(209, 220, 216);
+    margin-top: 1%;
+
+}
+caption{
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    color: rgb(9, 9, 10);
+    
+    
+}
+body{
+    background-color: rgb(246, 251, 249);
+}
+#effect{
+    font-size: 30px;
+    color: black;
+}
+img{
+    
+    height: 400px;
+    width: 500px;
+
+}
+img :hover{
+    
+}
+p{
+    font-style: italic;
+    font-size: 25px;
+    color: black;
+    
+}
+
+.details{
+    font-size: 25px;
+    padding-top: 10px;
+
+}
+#location{
+    font-size: 25px;
+
+}
+br{
+    margin-top: 30px;
+}
+button{
+    font-size: 15px;
+    margin-top: 20px;
+    background-color: rgb(246, 172, 245);
+    margin-left: 50px;
+    cursor:pointer;
+    border-radius: 10px;
+}
+a#details{
+    margin-bottom: 20px;
+
+}
